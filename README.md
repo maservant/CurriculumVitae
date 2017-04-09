@@ -5,3 +5,5 @@ Non, sérieusement, c'est _utile_. Si je fais une erreur, je peux simplement
 revenir en arrière à une autre révision, et je peux voir l'historique de chaque
 petit changement et me rappeler _pourquoi_ j'ai ajouté tel énoncé.
 Et [beaucoup d'autres raisons, aussi](https://www.toofishes.net/blog/why-i-do-my-resume-latex/)!
+
+An English version is available in the [`master`](../../tree/master) branch.
